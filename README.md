@@ -1,7 +1,7 @@
 ### Links
 
-- [Solution URL:](https://github.com/Smgy94/frontend-mentor-four-card-feature-section-master)
-- [Live Site URL:](https://smgy94.github.io/frontend-mentor-four-card-feature-section-master/)
+- [Frontend Mentor Solution](https://github.com/Smgy94/frontend-mentor-four-card-feature-section-master)
+- [Live Site URL](https://smgy94.github.io/frontend-mentor-four-card-feature-section-master/)
 
 # Frontend Mentor - Four card feature section solution
 
