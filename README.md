@@ -9,12 +9,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Table of contents
 
+- [Links](#links)
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ### The challenge
